@@ -1,1 +1,1 @@
-// Write your code here!
+body.removeChild(ul.querySelector('id:main'))
